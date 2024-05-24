@@ -1,0 +1,12 @@
+{
+    "_id": "fase_id_1",
+    "nome": "Fase de Planejamento",
+    "descricao": "Planejamento inicial do projeto.",
+    "data_inicio": "2024-05-01",
+    "data_fim": "2024-05-15",
+    "projeto_id": "projeto_id_1",
+    "tarefas": [
+        "tarefa_id_1",
+        "tarefa_id_2"
+    ]
+}

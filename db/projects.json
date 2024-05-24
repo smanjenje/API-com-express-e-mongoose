@@ -1,0 +1,27 @@
+{
+  "_id": "projeto_id_1",
+  "nome": "Projeto Alpha",
+  "descricao": "Este é um projeto exemplo.",
+  "data_inicio": "2024-05-01",
+  "data_fim": "2024-10-01",
+  "fases": [
+    "fase_id_1",
+    "fase_id_2"
+  ]
+}
+{
+  "_id": "projeto_id_1",
+  "nome": "Projeto Alpha",
+  "descricao": "Este é um projeto exemplo.",
+  "data_inicio": "2024-05-01",
+  "data_fim": "2024-10-01",
+  "fases": []
+}
+
+{
+  "nome": "Projeto Delta",
+  "descricao": "Este é um exemplo de projeto.",
+  "data_inicio": "2024-07-01",
+  "data_fim": "2024-12-31",
+  "fases": []
+}

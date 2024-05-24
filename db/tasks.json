@@ -1,0 +1,10 @@
+{
+    "_id": "tarefa_id_1",
+    "nome": "Reunião inicial",
+    "descricao": "Reunião para definir os objetivos do projeto.",
+    "responsavel": "João Silva",
+    "data_inicio": "2024-05-01",
+    "data_fim": "2024-05-01",
+    "status": "Concluída",
+    "fase_id": "fase_id_1"
+}

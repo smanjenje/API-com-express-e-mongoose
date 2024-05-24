@@ -1,0 +1,42 @@
+{
+    "_id": "projeto_id_1",
+    "nome": "Projeto Alpha",
+    "descricao": "Este é um projeto exemplo.",
+    "data_inicio": "2024-05-01",
+    "data_fim": "2024-10-01",
+    "fases": [{
+            "fase_id": "fase_id_1",
+            "nome": "Fase de Planejamento",
+            "descricao": "Planejamento inicial do projeto.",
+            "data_inicio": "2024-05-01",
+            "data_fim": "2024-05-15",
+            "tarefas": [{
+                    "tarefa_id": "tarefa_id_1",
+                    "nome": "Reunião inicial",
+                    "descricao": "Reunião para definir os objetivos do projeto.",
+                    "responsavel": "João Silva",
+                    "data_inicio": "2024-05-01",
+                    "data_fim": "2024-05-01",
+                    "status": "Concluída"
+                },
+                {
+                    "tarefa_id": "tarefa_id_2",
+                    "nome": "Análise de Requisitos",
+                    "descricao": "Coleta e análise dos requisitos do projeto.",
+                    "responsavel": "Maria Souza",
+                    "data_inicio": "2024-05-02",
+                    "data_fim": "2024-05-10",
+                    "status": "Em andamento"
+                }
+            ]
+        },
+        {
+            "fase_id": "fase_id_2",
+            "nome": "Fase de Execução",
+            "descricao": "Execução das atividades planejadas.",
+            "data_inicio": "2024-05-16",
+            "data_fim": "2024-09-30",
+            "tarefas": []
+        }
+    ]
+}
